@@ -3,7 +3,7 @@
 I'm just that guy passionate about delivering solutions. 
 
 ## 📫 Reach out to me: ...
-- [twitter](twitter.com/iamgodinson)
+- [twitter](https://twitter.com/iamgodinson)
 
 <!--
 **Godinson1/Godinson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
