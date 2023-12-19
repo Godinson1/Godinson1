@@ -6,7 +6,7 @@ With a background in computer science, I thrive in transforming complex problems
 
 Let's collaborate and create technology that makes a difference!
 
-## 📫 Reach out to me: ...
-- [twitter](https://twitter.com/iamgodinson)
+## 📫 Reach out to me via:
+- [Linkedin](https://www.linkedin.com/in/godinson/)
 
 
